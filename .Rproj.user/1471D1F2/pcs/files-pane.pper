@@ -1,0 +1,13 @@
+{
+    "path" : "~/GitHub/data_pakaipa",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 4
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
